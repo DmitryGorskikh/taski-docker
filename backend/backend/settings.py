@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '89.169.175.231', 'tasksdask.sytes.net']
 
 
-# Application definition
+# Application definition 1
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
